@@ -1,6 +1,6 @@
 # Added_mass_prolate_spheroid
 
-This repository contains the utilities to compute the added mass coefficients of an underwater vehicle whose hull geometry can be appoximated by a prolate spheroid.  
+This repository contains the utilities to compute the added mass coefficients of an underwater vehicle whose hull geometry can be approximated by a prolate spheroid.  
 
 
 
